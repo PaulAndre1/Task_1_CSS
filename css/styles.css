@@ -2,3 +2,40 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 115%;
 }
+
+header {
+    background-color: rgba(222, 219, 14, 0.75);
+}
+
+nav {
+    background-color: rgb(187, 205, 135);
+}
+
+main{
+    background-color: rgba(87, 237, 23, 0.5);
+    font-size: 125%;
+}
+
+footer{
+    background-color: rgba(14, 14, 14, 0.376);
+}
+
+li {
+    display: inline-block; 
+    width: 100px; 
+    padding: 10px;
+    margin: 10px 5%; 
+    background-color: #ffffff;
+    color: white;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #714131;
+}
+
+p{
+    line-height: 85%;
+}
